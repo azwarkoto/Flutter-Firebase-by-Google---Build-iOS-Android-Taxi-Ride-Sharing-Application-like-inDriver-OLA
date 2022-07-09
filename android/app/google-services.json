@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "415778995861",
+    "firebase_url": "https://flutter-clone-app-default-rtdb.firebaseio.com",
+    "project_id": "flutter-clone-app",
+    "storage_bucket": "flutter-clone-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415778995861:android:427ad99b9b0dbcbdf6659c",
+        "android_client_info": {
+          "package_name": "com.muhammadali.rider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415778995861-4906qgda8114imqhr7qh2597eq0lef25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx5o3YnIRKUSoTET4C0pp7PSAQrgn6jLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415778995861-4906qgda8114imqhr7qh2597eq0lef25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
